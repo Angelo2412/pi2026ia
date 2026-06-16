@@ -34,3 +34,13 @@ while True:
 
     valor = pizzas[sabor][tamanho]
     print(f"Pedido: {sabor} ({tamanho}) - R$ {valor:.2f}")
+    
+
+
+
+
+    print(f"{'Sabor':<22} {'P':<8} {'M':<8} {'G'}")
+print("-" * 50)
+
+for sabor, tamanhos in pizzas.items():
+    print(f"{sabor:<22} {tamanhos['P']:<8.2f} {tamanhos['M']:<8.2f} {tamanhos['G']:.2f}")
