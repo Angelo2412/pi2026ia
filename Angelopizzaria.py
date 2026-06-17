@@ -10,14 +10,14 @@ pizzas = {
 }
 
 while True:
-    sabor = input("Digite o sabor da pizza (ou 'exit' para sair): ").title()
+    sabor = input("Digite o sabor  (ou 'exit' para sair): ").title()
 
     if sabor.lower() == "exit":
         print("Programa encerrado.")
         break
 
     if sabor not in pizzas:
-        print("Sabor não encontrado!")
+        print("Não tem o sabor!")
         continue
 
     tamanho = input("Digite o tamanho (Pequeno, Media ou Grande): ").title()
