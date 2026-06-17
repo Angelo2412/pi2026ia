@@ -1,9 +1,25 @@
 Sabor,Tamanho,valor:
-Calabresa,P,35.00,M,45.00,G,55.00
-Mussarela,P,33.00,M,43.00,G,53.00
-Frango com catupiry,P,38.00,M,48.00,G,58.00
-Portuguesa,P,40.00,M,50.00,G,60.00
-Bacon com milho,P,40.00,M,50.00,G,60.00
-Quatro queijo,P,40.00,M,50.00,G,60.00
-Coração,P,45.00,M,57.00,G,70.00
-Strogonoff,P,55.00,M,60.00,G,80.00
+Calabresa,P,35.00
+Calabresa,M, 45.00
+Calabresa,G,55.00
+Mussarela,P,33.00
+Mussarela,M,43.00
+Mussarela,G,53.00
+Frango com catupiry,P,38.00
+Frango com catupiry,M,48.00
+Frango com catupiry,G,58.00
+Portuguesa,P,40.00
+Portuguesa,M,50.00
+Portuguesa,G,60.00
+Bacon com milho,P,40.00
+Bacon com milho,M,50.00
+Bacon com milho,G,60.00
+Quatro queijo,P,40.00
+Quatro queijo,M,50.00
+Quatro queijo,G,60.00
+Coração,P,45.00
+Coração,M,57.00
+Coração,G,70.00
+Strogonoff,P,55.00
+Strogonoff,M,60.00
+Strogonoff,G,80.00
