@@ -1,25 +1,25 @@
 Sabor,Tamanho,valor:
-Calabresa,P,35.00
-Calabresa,M, 45.00
-Calabresa,G,55.00
-Mussarela,P,33.00
-Mussarela,M,43.00
-Mussarela,G,53.00
-Frango com catupiry,P,38.00
-Frango com catupiry,M,48.00
-Frango com catupiry,G,58.00
-Portuguesa,P,40.00
-Portuguesa,M,50.00
-Portuguesa,G,60.00
-Bacon com milho,P,40.00
-Bacon com milho,M,50.00
-Bacon com milho,G,60.00
-Quatro queijo,P,40.00
-Quatro queijo,M,50.00
-Quatro queijo,G,60.00
-Coração,P,45.00
-Coração,M,57.00
-Coração,G,70.00
-Strogonoff,P,55.00
-Strogonoff,M,60.00
-Strogonoff,G,80.00
+Calabresa,Pequeno,$35.00
+Calabresa,Media,$45.00
+Calabresa,Grande,$55.00
+Mussarela,Pequeno,$33.00
+Mussarela,Media,$43.00
+Mussarela,Grande,$53.00
+Frango com catupiry,Pequeno,$38.00
+Frango com catupiry,Media,$48.00
+Frango com catupiry,Grande,$58.00
+Portuguesa,Pequeno,$40.00
+Portuguesa,Media,$50.00
+Portuguesa,Grande,$60.00
+Bacon com milho,Pequeno,$40.00
+Bacon com milho,Media,$50.00
+Bacon com milho,Grande,$60.00
+Quatro queijo,Pequeno,$40.00
+Quatro queijo,Media,$50.00
+Quatro queijo,Grande,$60.00
+Coração,Pequeno,$45.00
+Coração,Media,$57.00
+Coração,Grande,$70.00
+Strogonoff,Pequeno,$55.00
+Strogonoff,Media,$60.00
+Strogonoff,Grande,$80.00

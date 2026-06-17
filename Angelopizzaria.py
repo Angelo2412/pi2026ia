@@ -1,12 +1,12 @@
 pizzas = {
-"Calabresa":{"P":35.00,"M":45.00,"G":55.00},
-"Mussarela":{"P":33.00,"M":43.00,"G":53.00},
-"Frango com catupiry":{"P":38.00,"M":48.00,"G":58.00},
-"Portuguesa":{"P":40.00,"M":50.00,"G":60.00},
-"Bacon com milho":{"P":40.00,"M":50.00,"G":60.00},
-"Quatro queijo":{"P":40.00,"M":50.00,"G":60.00},
-"Coração":{"P":45.00,"M":57.00,"G":70.00},
-"Strogonoff":{"P":55.00,"M":60.00,"G":80.00}
+"Calabresa":{"Pequeno":35.00,"Media":45.00,"Grande":55.00},
+"Mussarela":{"Pequeno":33.00,"Media":43.00,"Grande":53.00},
+"Frango com catupiry":{"Pequeno":38.00,"Media":48.00,"Grande":58.00},
+"Portuguesa":{"Pequeno":40.00,"Media":50.00,"Grande":60.00},
+"Bacon com milho":{"Pequeno":40.00,"Media":50.00,"Grnade":60.00},
+"Quatro queijo":{"Pequeno":40.00,"Media":50.00,"Grande":60.00},
+"Coração":{"Pequeno":45.00,"Media":57.00,"Grande":70.00},
+"Strogonoff":{"Pequeno":55.00,"Media":60.00,"Grande":80.00}
 }
 
 while True:
