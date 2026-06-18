@@ -13,7 +13,7 @@ while True:
     sabor = input("Digite o sabor  (ou 'exit' para sair): ").title()
 
     if sabor.lower() == "exit":
-        print("Programa encerrado.")
+        print("O programa terminou.")
         break
 
     if sabor not in pizzas:
